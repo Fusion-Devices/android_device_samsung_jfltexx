@@ -13,5 +13,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
   PRIVATE_BUILD_DESC="jfltexx-user 4.2.2 JDQ39 I9505XXUAMDE release-keys"
 
 PRODUCT_DEVICE := jfltexx
-PRODUCT_NAME := fusionsp_jfltexx
+PRODUCT_NAME := jfltexx
 
